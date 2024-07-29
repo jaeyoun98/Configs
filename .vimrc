@@ -1,0 +1,11 @@
+set nu
+set scrolloff=12
+set tabstop=2
+set hlsearch
+set autoindent
+set smartindent
+set background=dark
+set nospell
+set laststatus=2
+set statusline=%F
+set mouse=a
